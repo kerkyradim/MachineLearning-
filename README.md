@@ -10,7 +10,7 @@ Coursework from the **Machine Learning** module: regression, **dermoscopy image 
 
 ## Featured project: dermoscopy classification (Assignment 2)
 
-**Goal:** classify dermatoscopic skin lesions from the course **ISIC / dermoscopy** image set using deep learning.
+**Goal:** classify dermatoscopic skin lesions from the course **dermoscopy** image set using deep learning.
 
 | Aspect | Details |
 |--------|---------|
