@@ -1,6 +1,6 @@
 # Machine Learning Course Projects (Harokopio University)
 
-**Author:** [Kerkyra Dimisianou](https://github.com/kerkyradim) · IT22026  
+**Author:** [Kerkyra Dimisianou](https://github.com/kerkyradim) · 
 **Semester:** 7th — Department of Informatics and Telematics  
 **Repository:** [kerkyradim/MachineLearning-](https://github.com/kerkyradim/MachineLearning-)
 
@@ -40,7 +40,6 @@ jupyter lab assignment-02-dermoscopy-classification/dermoscopy_cnn_classificatio
 | [`assignment-01-linear-regression/`](assignment-01-linear-regression/) | Linear regression (`linear_regression.py`, tests) |
 | [`assignment-03-gpt2/`](assignment-03-gpt2/) | GPT-2 fine-tuning / NLP deliverable (`gpt2_finetuning.ipynb`, report PDF) |
 
-See [`docs/PROJECT_SUMMARY.md`](docs/PROJECT_SUMMARY.md) for CV-ready wording.
 
 ---
 
