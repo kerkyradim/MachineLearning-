@@ -1,1 +1,0 @@
-Harokopio ML (7th sem): PyTorch CNN & ResNet-34 dermoscopy classification (ISIC), plus linear regression and GPT-2 coursework — Kerkyra Dimisianou IT22026.
