@@ -4,7 +4,7 @@
 **Semester:** 7th — Department of Informatics and Telematics  
 **Repository:** [kerkyradim/MachineLearning-](https://github.com/kerkyradim/MachineLearning-)
 
-Coursework from the **Machine Learning** module: regression, **dermoscopy image classification**, and NLP. The main CV highlight is the **ISIC dermoscopy CNN** project in `assignment-02-dermoscopy-classification/`.
+Coursework from the **Machine Learning** module: regression, **dermoscopy image classification**, and NLP. 
 
 ---
 
@@ -20,7 +20,7 @@ Coursework from the **Machine Learning** module: regression, **dermoscopy image 
 | **Training** | Cross-entropy loss, Adam/SGD, accuracy & loss curves, evaluation on held-out test set |
 | **Artifacts** | [`dermoscopy_cnn_classification.ipynb`](assignment-02-dermoscopy-classification/dermoscopy_cnn_classification.ipynb) · [`ML_2nd.pdf`](assignment-02-dermoscopy-classification/ML_2nd.pdf) (report) |
 
-The notebook expects the dataset archive `dermoscopy_classification.tar.gz` (not included in this repo due to size and ISIC terms). Place extracted data as described in the notebook (`metadata.csv` + image directories).
+The notebook expects the dataset archive `dermoscopy_classification.tar.gz` (not included in this repo due to size). Place extracted data as described in the notebook (`metadata.csv` + image directories).
 
 ### Quick start (Assignment 2)
 
@@ -43,6 +43,3 @@ jupyter lab assignment-02-dermoscopy-classification/dermoscopy_cnn_classificatio
 
 ---
 
-## License
-
-Academic coursework — reference use with attribution. Dermoscopy images remain subject to **ISIC** / course dataset terms; do not redistribute raw data via this repository.
