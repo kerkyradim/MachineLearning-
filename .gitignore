@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+dermoscopy_classification/
+*.tar.gz
+*.h5
+*.pth
+*.pt
+.DS_Store
